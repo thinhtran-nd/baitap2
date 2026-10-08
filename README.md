@@ -6,7 +6,7 @@
 - **Mã số sinh viên:** 24810320263
 - **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# / Windows Forms
-- **Tên bài tập:** Bài :Form Tiếp nhận & Phân loại sự cố IT (IT Support Ticket Form)
+- **Tên bài tập:** Bài2 :Form Tiếp nhận & Phân loại sự cố IT (IT Support Ticket Form)
 
 ---
 
